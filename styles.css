@@ -4,3 +4,6 @@ p {
 span {
     color: blue;
 }
+nav ul {
+    list-style-type: none;
+}
